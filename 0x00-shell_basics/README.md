@@ -1,0 +1,1 @@
+this is the redme for shell basics
